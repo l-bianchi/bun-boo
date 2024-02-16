@@ -6,7 +6,8 @@
     "start": "bun run index.ts"
   },
   "devDependencies": {
-    "@types/bun": "^1.0.4",
+    "@biomejs/biome": "1.5.3",
+    "@types/bun": "^1.0.5",
     "@types/figlet": "^1.5.8"
   },
   "peerDependencies": {
